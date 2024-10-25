@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container {
+    display: flex;
+    color: rgb(14, 5, 5);
+    justify-content: center;
+    align-items: center;
+}
+
+.starwars{
+    width: 300px;
+    height: 370px;
+}
+.title{
+    align-items:center;
+    justify-content:baseline;
+    margin-left: 180px;
+
+
+
+}
+.paragraph{
+    margin-top: 180px;
+
+    
+}
